@@ -1,2 +1,2 @@
 # minha_nota_2t
-Nicole Fernandes Bastiani  num:28
+Nome: Nicole Fernandes Bastiani  N:28
