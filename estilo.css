@@ -1,5 +1,5 @@
 body {
-   background: #9222a8;
+   background: #9b37af;
 }
 h1 {
    text-align: center;
@@ -26,14 +26,14 @@ li {
 }
 li a {
    display: block;
-   color: rgb(232, 63, 238);
+   color: rgb(238, 63, 223);
    text-align: center;
    padding: 14px 16px;
    text-decoration: none;
    font-family: 'Courier New', Courier, monospace;
 }
 li a:hover {
-   background: rgb(209, 193, 163);
+   background: rgb(230, 126, 224);
    color: black;
 }
 
@@ -41,6 +41,15 @@ li a:hover {
    width: 100%;
   display: flex;
   justify-content: center;
+}
+
+.imagemGatino {
+   position: fixed;
+   top: 0;
+   right: 0;
+   z-index: 999;
+   width: 120px;
+   height: 100px;
 }
 
 .rodape {
