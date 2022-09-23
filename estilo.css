@@ -1,0 +1,57 @@
+body {
+   background: #9222a8;
+}
+h1 {
+   text-align: center;
+}
+
+.menuPrincipal {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 45px;
+   background: rgb(207, 108, 231);
+   font-family: 'Courier New', Courier, monospace;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: 0;
+}
+li {
+   float: left;
+}
+li a {
+   display: block;
+   color: rgb(232, 63, 238);
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-family: 'Courier New', Courier, monospace;
+}
+li a:hover {
+   background: rgb(209, 193, 163);
+   color: black;
+}
+
+.gatopHome {
+   width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.rodape {
+   position: absolute;
+   bottom: 0%;
+   width: 100%;
+   left: 0;
+   height: 30px;
+   background-color: rgb(236, 158, 234);
+   color: rgb(0, 0, 0);
+   display: flex;
+   justify-content: center;
+   font-size: 18px;
+ }
